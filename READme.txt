@@ -8,7 +8,5 @@ The FullGermanModelWithLag.csv and FullGermanModelWithLag.py is essentially the 
 
 The ARIMA.py and Test.py are the scripts used for making and training the ARIMA model and testing the final TFT model on the test set, respectively.
 
-In saved models are results for all the models trained during the thesis.
-
 
  
